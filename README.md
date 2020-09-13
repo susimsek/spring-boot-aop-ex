@@ -1,5 +1,5 @@
 # Spring Boot Aop Example
-This is aop logging performance monitoring,event publishing example using spring boot
+This is aop logging, performance monitoring,event publishing example using spring boot
 
 <img src="https://github.com/susimsek/spring-boot-aop-ex/blob/master/images/spring-boot-aop-ex.png" alt="Spring Boot Aop Example" width="50%" height="50%"/> 
 
